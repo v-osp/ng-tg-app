@@ -1,1 +1,17 @@
-/* You can add global styles to this file, and also import other style files */
+//button {
+//  display: block;
+//  width: 100%;
+//  font-size: 14px;
+//  margin: 15px 0;
+//  padding: 12px 20px;
+//  border: none;
+//  border-radius: 4px;
+//  background-color: var(--tg-theme-button-color, red);
+//  color: var(--tg-theme-button-text-color, #ffffff);
+//  cursor: pointer;
+//}
+
+body {
+  background: var(--tg-theme-bg-color);
+  color: var(--tg-theme-text-color);
+}
